@@ -1,3 +1,3 @@
 # Wrapper for the `setns` syscall
 
-A very simple wrapper library to open a listening socket inside a network namespace by PID or docker container ID.
+A very simple wrapper library to run code in a network namespace, for example to open a listening socket.
